@@ -1,0 +1,506 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://herr-nm.github.io/MMBbS_Foerderkurs/uml.html">
+      
+      <link rel="icon" href="bilder/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.5.3">
+    
+    
+      
+        <title>UML - NM Förderkurs</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.7a952b86.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.cbb835fc.min.css">
+        
+      
+      
+
+    
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#uml-unified-modeling-language" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="index.html" title="NM Förderkurs" class="md-header__button md-logo" aria-label="NM Förderkurs" data-md-component="logo">
+      
+  <img src="bilder/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            NM Förderkurs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              UML
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/herr-nm/MMBbS_Foerderkurs" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="index.html" title="NM Förderkurs" class="md-nav__button md-logo" aria-label="NM Förderkurs" data-md-component="logo">
+      
+  <img src="bilder/logo.png" alt="logo">
+
+    </a>
+    NM Förderkurs
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/herr-nm/MMBbS_Foerderkurs" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="index.html" class="md-nav__link">
+        Informationen zur Kurslizenz
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          UML
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="uml.html" class="md-nav__link md-nav__link--active">
+        UML
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#handlungssituation" class="md-nav__link">
+    Handlungssituation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uml-klassendiagramm" class="md-nav__link">
+    UML-Klassendiagramm
+  </a>
+  
+    <nav class="md-nav" aria-label="UML-Klassendiagramm">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#informationsmaterial-m1-uml-klassendiagramme" class="md-nav__link">
+    Informationsmaterial M|1: UML-Klassendiagramme
+  </a>
+  
+    <nav class="md-nav" aria-label="Informationsmaterial M|1: UML-Klassendiagramme">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#darstellung-einer-klasse" class="md-nav__link">
+    Darstellung einer Klasse
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uml-notationsubersicht" class="md-nav__link">
+    UML Notationsübersicht
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#handlungssituation" class="md-nav__link">
+    Handlungssituation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uml-klassendiagramm" class="md-nav__link">
+    UML-Klassendiagramm
+  </a>
+  
+    <nav class="md-nav" aria-label="UML-Klassendiagramm">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#informationsmaterial-m1-uml-klassendiagramme" class="md-nav__link">
+    Informationsmaterial M|1: UML-Klassendiagramme
+  </a>
+  
+    <nav class="md-nav" aria-label="Informationsmaterial M|1: UML-Klassendiagramme">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#darstellung-einer-klasse" class="md-nav__link">
+    Darstellung einer Klasse
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#uml-notationsubersicht" class="md-nav__link">
+    UML Notationsübersicht
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  <a href="https://github.com/herr-nm/MMBbS_Foerderkurs/edit/master/docs/uml.md" title="Seite editieren" class="md-content__button md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
+  </a>
+
+
+<h1 id="uml-unified-modeling-language">UML: Unified Modeling Language</h1>
+<p><img alt="Kapitelbild" src="bilder/uml_kapitelbild.png" /></p>
+<p>In diesem Kapitel finden Sie Informationen und Übungen zu ...</p>
+<ul>
+<li>... UML-Klassendiagrammen.</li>
+</ul>
+<hr />
+<h2 id="handlungssituation">Handlungssituation</h2>
+<p>Die European Automotive SE ist eine Aktiengesellschaft, welche im europäischen Raum als Automobilproduzent tätig ist. Die Produktion ist dabei über mehrere EU-Mitgliedsstaaten verteilt organisiert.</p>
+<p>Der Einkauf des Konzerns hat seinen Sitz in Estland. Von dort aus werden die Bestände aller Werke beobachtet und geregelt. Auch kundenspezifische Bauteile werden aus der Einkaufszentrale heraus beschafft.</p>
+<p>In Bulgarien und Polen liegen Werke zur Vorproduktion der benötigten Karossiere-Teile bzw. der Innenausstattung.</p>
+<p>Die Endmontage wird in Polen durchgeführt. Dazu werden die vorproduzierten Teile angeliefert und durch die eingekauften Fremdbauteile und -gruppen ergänzt.</p>
+<p>Während sich die Forschung &amp; Entwicklung sowie die Geschäftsführung in Deutschland befindet, ist die Qualitätssicherung von Fertigprodukten und der After-Sales-Service in Frankreich positioniert.</p>
+<p>Die Personalabteilung, Abrechnung und weitere kleinere administrative Abteilungen sind in den Niederlanden angesiedelt.</p>
+<p>Erklärtes Ziel der European Automotive SE ist es, moderne Automobilkonzepte in und für Europa herzustellen und damit die Mitgliedsstaaten zu verzahnen. Das Unternehmen wird durch die Europäische Union u.a. finanziell unterstützt und hat Kooperationen mit den in den EU angesiedelten Automobilkonzernen.</p>
+<p>Strategisch arbeitet die European Automotive SE an Mobilitätskonzepten, welche nicht zwingend auf den Verkauf von Automobilen basiert. Aktuell befinden sich zwei Elektrofahrzeuge in der Produktion. Ein Kleinlaster für kommunale Aufgaben (bspw. Straßenmeisterei, Parkpflege, handwerkliche Tätigkeiten) sowie ein Kleinbus für den Nahverkehr.</p>
+<p>Sie arbeiten in der IT der Forschungsabteilung der European Automotive SE und sind mit Ihrer Gruppe für die Einführung eines neuen Fahrzeugs in die Produktion eingesetzt. Ein Kleinlaster mit Elektro-Antrieb und Brennstoffzelle soll für die Paketauslieferung in der letzten Meile gebaut werden. Dazu ist eine neue Produktionslinie mitsamt allen Prozessen einzurichten. Diverse als Zukunftstechnologien identifizierte Prinzipien sollen im Rahmen dieser Produktionslinie eingesetzt werden, um deren Potenzial herauszufiltern und auf den Prüfstand zu stellen.</p>
+<p><img alt="Europa Karte" src="bilder/uml_europa.jpg" /></p>
+<hr />
+<h2 id="uml-klassendiagramm">UML-Klassendiagramm</h2>
+<p>Das Klassendiagramm ist eines der wichtigsten Diagramme für die Analyse und das Design von Softwaresystemen. Im Klassendiagramm werden die Klassen des zu entwickelnden Systems und deren Beziehungen untereinander dargestellt. Es ist statisch und zeigt keine zeitabhängigen Abläufe von Operationen. Es gibt einige Analogien zwischen Klassendiagramm und dem im Zusammenhang mit Datenbanken bereits bekannten ERM.</p>
+<hr />
+<h3 id="informationsmaterial-m1-uml-klassendiagramme">Informationsmaterial M|1: UML-Klassendiagramme</h3>
+<h4 id="darstellung-einer-klasse">Darstellung einer Klasse</h4>
+<p>Eine Klasse besteht aus drei wesentlichen Teilen:</p>
+<ul>
+<li>dem Klassennamen,</li>
+<li>den Attributen und</li>
+<li>den Methoden.</li>
+</ul>
+<div class="puml"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="248px" preserveAspectRatio="true" style="background: #ffffff" version="1.1" viewBox="0 0 210 248" width="210px" zoomAndPan="magnify"><defs/><g><g id="elem_Kaeufer"><rect codeLine="2" fill="#F1F1F1" height="227.2656" id="Kaeufer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="189" x="7" y="7"/><ellipse cx="69.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M71.5938,18.6719 C70.6563,18.2344 70.0625,18.0938 69.1875,18.0938 C66.5625,18.0938 64.5625,20.1719 64.5625,22.8906 L64.5625,24.0156 C64.5625,26.5938 66.6719,28.4844 69.5625,28.4844 C70.7813,28.4844 71.9375,28.1875 72.6875,27.6406 C73.2656,27.2344 73.5938,26.7813 73.5938,26.3906 C73.5938,25.9375 73.2031,25.5469 72.7344,25.5469 C72.5156,25.5469 72.3125,25.625 72.125,25.8125 C71.6719,26.2969 71.6719,26.2969 71.4844,26.3906 C71.0625,26.6563 70.375,26.7813 69.6094,26.7813 C67.5625,26.7813 66.2656,25.6875 66.2656,23.9844 L66.2656,22.8906 C66.2656,21.1094 67.5156,19.7969 69.25,19.7969 C69.8281,19.7969 70.4375,19.9531 70.9063,20.2031 C71.3906,20.4844 71.5625,20.7031 71.6563,21.1094 C71.7188,21.5156 71.75,21.6406 71.8906,21.7656 C72.0313,21.9063 72.2656,22.0156 72.4844,22.0156 C72.75,22.0156 73.0156,21.875 73.1875,21.6563 C73.2969,21.5 73.3281,21.3125 73.3281,20.8906 L73.3281,19.4688 C73.3281,19.0313 73.3125,18.9063 73.2188,18.75 C73.0625,18.4844 72.7813,18.3438 72.4844,18.3438 C72.1875,18.3438 71.9844,18.4375 71.7656,18.75 L71.5938,18.6719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="89.75" y="27.8467">Kaeufer</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="195" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="13" y="55.9951">-KundePK :Integer</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="13" y="72.292">-Vorname :String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="13" y="88.5889">-Nachname :String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="13" y="104.8857">-Anschrift :String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="13" y="121.1826">-PLZ :String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="13" y="137.4795">-Firma :String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="13" y="153.7764">-Geburtstag :Date</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="195" y1="161.0781" y2="161.0781"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="13" y="178.0732">+getName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="13" y="194.3701">+getAlter()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="13" y="210.667">+getAdresse()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="13" y="226.9639">+setFirma(Firma :String)</text></g></g></svg></div>
+
+<p>Attribute haben unterschiedliche Sichtbarkeiten. Sie können privat oder öffentlich sein. Dazu bietet das Klassendiagramm folgende Symbolik:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Symbol</th>
+<th style="text-align: left;">Bedeutung</th>
+<th style="text-align: left;">Sichtbarkeit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">-</td>
+<td style="text-align: left;">privates Attribute (private)</td>
+<td style="text-align: left;">Ist gegen den Zugriff von außen geschützt und kann nur über entsprechende Methoden angesprochen werden.</td>
+</tr>
+<tr>
+<td style="text-align: left;">+</td>
+<td style="text-align: left;">öffentliches Attribut (public)</td>
+<td style="text-align: left;">Kann direkt angesprochen werden und wird nur selten verwendet.</td>
+</tr>
+<tr>
+<td style="text-align: left;">#</td>
+<td style="text-align: left;">geschütztes Attribut – spielt bei der Vererbung eine Rolle (protected)</td>
+<td style="text-align: left;">Verhält sich nach außen wie ein privates Attribut. Innerhalb der Vererbungshierarchie aber wie ein öffentliches. Eine Klasse, die von einer anderen erbt, kann auf deren geschützte Attribute zugreifen als wäre es ihre eigenen.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="uml-notationsubersicht">UML Notationsübersicht</h2>
+<p><img alt="UML Notationsübersicht Teil 1" src="bilder/uml_notationsuebersicht_1.png" />
+<img alt="UML Notationsübersicht Teil 2" src="bilder/uml_notationsuebersicht_2.png" />
+<img alt="UML Notationsübersicht Teil 3" src="bilder/uml_notationsuebersicht_3.png" />
+<img alt="UML Notationsübersicht Teil 4" src="bilder/uml_notationsuebersicht_4.png" /></p>
+<p><a href="https://www.oose.de/wp-content/uploads/2012/05/UML-Notations%C3%BCbersicht-2.5.pdf">zum Download</a></p>
+<hr />
+<!-- BEGIN INCLUDE inhalte/lizenzhinweis.md '&lt;!--include-start--&gt;' '&lt;!--include-end--&gt;' -->
+
+<div class="admonition info">
+<p class="admonition-title">Lizenz</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Der Förderkurs</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://herr-nm.github.io/MMBbS_Foerderkurs/" property="cc:attributionName" rel="cc:attributionURL">André Neumann</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Fragen, Hinweise etc. an neumann@mmbbs.de."</p>
+</div>
+<!-- END INCLUDE -->
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Fußzeile" >
+      
+        
+        <a href="index.html" class="md-footer__link md-footer__link--prev" aria-label="Zurück: Informationen zur Kurslizenz" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Zurück
+              </span>
+              Informationen zur Kurslizenz
+            </div>
+          </div>
+        </a>
+      
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": ".", "features": [], "search": "assets/javascripts/workers/search.5bf1dace.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.config.lang": "de", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Suche", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version.title": "Version ausw\u00e4hlen"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.37e9125f.min.js"></script>
+      
+    
+  </body>
+</html>
