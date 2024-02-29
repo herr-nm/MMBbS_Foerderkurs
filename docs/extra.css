@@ -14,11 +14,8 @@ a {
     --md-primary-fg-color--dark: ...;
     --md-primary-bg-color: #C5A981;
     --md-primary-bg-color--light: #C5A981;
-  
-      /* Akzent Farbschema */
-   --md-accent-fg-color:                ... ;
-   --md-accent-fg-color--transparent:   ...;
-   --md-accent-bg-color:                ...;
-   --md-accent-bg-color--light:         ...;
-  
-  }
+    --md-accent-fg-color:                ... ;
+    --md-accent-fg-color--transparent:   ...;
+    --md-accent-bg-color:                ...;
+    --md-accent-bg-color--light:         ...;
+}

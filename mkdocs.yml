@@ -1,4 +1,4 @@
-site_name: NM Förderkurs
+site_name: Förderkurs
 
 theme:
   name: material
@@ -11,15 +11,20 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
 
 plugins:
   - include-markdown
-  - plantuml:
-        puml_url: https://www.plantuml.com/plantuml/
-        num_workers: 8
+  - search
 
 extra_css:
   - 'extra.css'
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 use_directory_urls: false
 
@@ -29,6 +34,9 @@ site_url: https://herr-nm.github.io/MMBbS_Foerderkurs
 
 nav:
     - Informationen zur Kurslizenz: 'index.md'
-    - UML: 'uml.md'
-    
-
+    - Aufbau und Inhalt der IHK-Prüfung (AP1): '00_aufbau_und_inhalt_ap1.md'
+    - Aufbau und Inhalt der IHK-Prüfung (AP2): '01_aufbau_und_inhalt_ap2.md'
+    - IT-Basics: '02_it_basics.md'
+    - Anwendungsentwicklung: '03_anwendungsentwicklung.md'
+    - IT-Sicherheit: '04_it-sicherheit.md'
+    - Lernpartner, Kursangebote & Material: '08_lernpartner_kursangebote_material.md'
