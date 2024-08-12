@@ -34,9 +34,9 @@ site_url: https://herr-nm.github.io/MMBbS_Foerderkurs
 
 nav:
     - Informationen zur Kurslizenz: 'index.md'
-    - Aufbau und Inhalt der IHK-Prüfung (AP1): '00_aufbau_und_inhalt_ap1.md'
-    - Aufbau und Inhalt der IHK-Prüfung (AP2): '01_aufbau_und_inhalt_ap2.md'
-    - IT-Basics: '02_it_basics.md'
-    - Anwendungsentwicklung: '03_anwendungsentwicklung.md'
-    - IT-Sicherheit: '04_it-sicherheit.md'
-    - Lernpartner, Kursangebote & Material: '08_lernpartner_kursangebote_material.md'
+    - Projekte durchführen: 'projekte_durchfuehren.md'
+    - Angebot, Kaufvertrag, Mängel: 'angebot_kaufvertrag_mangel.md'
+    - Informationswirtschaft: 'informationswirtschaft.md'
+    - Grundlagen des Rechnungswesens: 'rechnungswesen.md'
+    - Kosten- und Leistungsrechnung: 'klr.md'
+    - Aufbau- und Ablauforganisation: 'aufbau_und_ablauforganisation.md'
