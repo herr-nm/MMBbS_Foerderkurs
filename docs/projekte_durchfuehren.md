@@ -13,6 +13,8 @@ In diesem Kapitel funden Sie folgende Inhalte:
 
 ## Anforderungen analysieren
 
+Sie lernen, wie sie die Bedürfnisse und Anforderungen von Kunden systematisch erfassen und analysieren. Sie entwickeln Fähigkeiten, um technische Lösungen passgenau zu planen und erfolgreich zu implementieren. 
+
 ### Exkurs Anforderungsanalyse
 
 [Download der Vortragsfolien als PDF](material/Exkurs_Anforderungen_ermitteln.pdf)
