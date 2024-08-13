@@ -73,7 +73,7 @@ Jede Hardware-Option wird auf einer Skala von 1 bis 5 für jede Anforderung bewe
 
 ## Netzplantechnik und Gantt-Diagramme erstellen
 
-### Exkurs Netzplantechnik und Gantt-Diagramme
+### Exkurs - Netzplantechnik und Gantt-Diagramme
 
 [Download der Vortragsfolien als PDF](material/Exkurs_Netzplantechnik_und_Gantt-Diagramme.pdf)
 
