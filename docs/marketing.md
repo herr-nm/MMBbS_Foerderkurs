@@ -68,7 +68,8 @@ Ordnen Sie den Szenarien zu, ob es sich um konkurrierende, indifferente oder kom
 
 ## Portfoliomatrix
 
-!!! note
+!!! note "Information"
+
    Sie lernen wie Unternehmen ihre Produkte oder Geschäftsbereiche anhand von Kriterien wie Marktanteil und Marktwachstum bewerten und strategisch positionieren. Sie lernen, die vier Felder – Stars, Question Marks, Cash Cows und Dogs – zu unterscheiden und entsprechende Handlungsempfehlungen abzuleiten, um eine ausgewogene und zukunftssichere Unternehmensstrategie zu entwickeln.
 
 ### Exkurs - Portfoliomatrix
