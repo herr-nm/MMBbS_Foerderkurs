@@ -14,7 +14,7 @@ In diesem Kapitel finden Sie folgende Inhalte:
 
 !!! note ""
 
-   Sie lernen, dass Unternehmensziele in einem komplexen Verhältnis zueinander stehen können: konkurrierend, indifferent oder komplementär. Konkurrierende Ziele stehen in direktem Widerspruch und erfordern eine Priorisierung, indifferente Ziele beeinflussen sich gegenseitig nicht, und komplementäre Ziele unterstützen und verstärken sich. Diese Zusammenhänge sind entscheidend, um strategische Entscheidungen zu treffen und sicherzustellen, dass die verschiedenen Ziele des Unternehmens aufeinander abgestimmt sind und zum Gesamterfolg beitragen.
+    Sie lernen, dass Unternehmensziele in einem komplexen Verhältnis zueinander stehen können: konkurrierend, indifferent oder komplementär. Konkurrierende Ziele stehen in direktem Widerspruch und erfordern eine Priorisierung, indifferente Ziele beeinflussen sich gegenseitig nicht, und komplementäre Ziele unterstützen und verstärken sich. Diese Zusammenhänge sind entscheidend, um strategische Entscheidungen zu treffen und sicherzustellen, dass die verschiedenen Ziele des Unternehmens aufeinander abgestimmt sind und zum Gesamterfolg beitragen.
 
 ### Exkurs - Anforderungsanalyse
 
@@ -84,7 +84,7 @@ Erstellen Sie eine Portfoliomatrix zu einem beliebigen Markt / Unternehmen. Such
 
 !!! note ""
 
-   Sie lernen die verschiedenen Phasen kennen, die ein Produkt von der Einführung bis zum Marktaustritt durchläuft: Einführungs-, Wachstums-, Reife- und Degenerationsphase. Sie verstehen, wie sich Absatz, Umsatz und Gewinn in den einzelnen Phasen verändern und welche strategischen Maßnahmen erforderlich sind, um den Erfolg des Produkts in jeder Phase zu maximieren.
+    Sie lernen die verschiedenen Phasen kennen, die ein Produkt von der Einführung bis zum Marktaustritt durchläuft: Einführungs-, Wachstums-, Reife- und Degenerationsphase. Sie verstehen, wie sich Absatz, Umsatz und Gewinn in den einzelnen Phasen verändern und welche strategischen Maßnahmen erforderlich sind, um den Erfolg des Produkts in jeder Phase zu maximieren.
 
 ### Exkurs - Produktlebenszyklus
 
