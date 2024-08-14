@@ -13,7 +13,7 @@ In diesem Kapitel funden Sie folgende Inhalte:
 
 ## Anforderungen analysieren
 
-!!! info ""
+!!! note ""
 
    Sie lernen, wie sie die Bedürfnisse und Anforderungen von Kunden systematisch erfassen und analysieren. Sie entwickeln Fähigkeiten, um technische Lösungen passgenau zu planen und erfolgreich zu implementieren. 
 
@@ -31,7 +31,7 @@ Erstellen Sie eine Checkliste für die Ermittlung von Anforderungen an eine neue
 
 ## Präferenzmatrix und Nutzwertanalyse durchführen
 
-!!! info ""
+!!! note ""
 
    Die Präferenzmatrix und Nutzwertanalyse sind Werkzeuge, die eingesetzt werden, um Entscheidungen systematisch und objektiv zu treffen. Mit der Präferenzmatrix werden verschiedene Optionen anhand festgelegter Kriterien bewertet, während die Nutzwertanalyse diese Bewertungen quantifiziert und eine klare Entscheidungshilfe bietet.
 
@@ -81,7 +81,7 @@ Jede Hardware-Option wird auf einer Skala von 1 bis 5 für jede Anforderung bewe
 
 ## Netzplantechnik und Gantt-Diagramme erstellen
 
-!!! info ""
+!!! note ""
 
    Sie lernen die Netzplantechnik und das Gantt-Diagramm als zentrale Werkzeuge des Projektmanagements kennen. Die Netzplantechnik ermöglicht die grafische Darstellung und Analyse von Abläufen und Abhängigkeiten in Projekten, während das Gantt-Diagramm zeitliche Abläufe und Meilensteine visualisiert.
 
@@ -140,6 +140,10 @@ Erstellen Sie einen Projektzeitplan für ein Softwareentwicklungsprojekt, bei de
 - **F** beginnt nach **E**
 
 ## Projektphasen unterscheiden
+
+!!! note ""
+
+   Sie werden mit den verschiedenen Projektphasen vertraut gemacht, die ein IT-Projekt von Anfang bis Ende durchläuft. Dazu gehören die Initiierungsphase, in der das Projekt definiert und Ziele festgelegt werden, die Planungsphase, in der detaillierte Zeit- und Ressourcenpläne erstellt werden, die Durchführungsphase, in der das Projekt umgesetzt wird, sowie die Abschlussphase, in der das Projekt evaluiert und abgeschlossen wird. Jede Phase erfordert spezifische Kenntnisse und Fähigkeiten, um den Projekterfolg sicherzustellen.
 
 ### Arbeitsauftrag - Projektphasen unterscheiden
 
