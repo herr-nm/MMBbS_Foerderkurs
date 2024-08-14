@@ -12,6 +12,10 @@ In diesem Kapitel finden Sie folgende Inhalte:
 
 ## Unternehmensziele
 
+!!! note ""
+
+   Sie lernen, dass Unternehmensziele in einem komplexen Verhältnis zueinander stehen können: konkurrierend, indifferent oder komplementär. Konkurrierende Ziele stehen in direktem Widerspruch und erfordern eine Priorisierung, indifferente Ziele beeinflussen sich gegenseitig nicht, und komplementäre Ziele unterstützen und verstärken sich. Diese Zusammenhänge sind entscheidend, um strategische Entscheidungen zu treffen und sicherzustellen, dass die verschiedenen Ziele des Unternehmens aufeinander abgestimmt sind und zum Gesamterfolg beitragen.
+
 ### Exkurs - Anforderungsanalyse
 
 [Download der Vortragsfolien als PDF](material/Exkurs_Unternehmensziele.pdf)
@@ -64,6 +68,10 @@ Ordnen Sie den Szenarien zu, ob es sich um konkurrierende, indifferente oder kom
 
 ## Portfoliomatrix
 
+!!! note ""
+   
+   Sie lernen wie Unternehmen ihre Produkte oder Geschäftsbereiche anhand von Kriterien wie Marktanteil und Marktwachstum bewerten und strategisch positionieren. Sie lernen, die vier Felder – Stars, Question Marks, Cash Cows und Dogs – zu unterscheiden und entsprechende Handlungsempfehlungen abzuleiten, um eine ausgewogene und zukunftssichere Unternehmensstrategie zu entwickeln.
+
 ### Exkurs - Portfoliomatrix
 
 [Download der Vortragsfolien als PDF](material/Exkurs_Portfoliomatrix.pdf)
@@ -73,6 +81,10 @@ Ordnen Sie den Szenarien zu, ob es sich um konkurrierende, indifferente oder kom
 Erstellen Sie eine Portfoliomatrix zu einem beliebigen Markt / Unternehmen. Suchen Sie hierfür jeweils zwei Produkte / Dienstleistungen für jedes Feld heraus. Begründen Sie die Zuordnung und stellen Sie die empfohlende Strategie dar.
 
 ## Produktlebenszyklus
+
+!!! note ""
+
+   Sie lernen die verschiedenen Phasen kennen, die ein Produkt von der Einführung bis zum Marktaustritt durchläuft: Einführungs-, Wachstums-, Reife- und Degenerationsphase. Sie verstehen, wie sich Absatz, Umsatz und Gewinn in den einzelnen Phasen verändern und welche strategischen Maßnahmen erforderlich sind, um den Erfolg des Produkts in jeder Phase zu maximieren.
 
 ### Exkurs - Produktlebenszyklus
 
