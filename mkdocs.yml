@@ -35,6 +35,7 @@ site_url: https://herr-nm.github.io/MMBbS_Foerderkurs
 nav:
     - Informationen zur Kurslizenz: 'index.md'
     - Projekte durchführen: 'projekte_durchfuehren.md'
+    - Marketing: 'marketing.md'
     - Angebot, Kaufvertrag, Mängel: 'angebot_kaufvertrag_mangel.md'
     - Informationswirtschaft: 'informationswirtschaft.md'
     - Grundlagen des Rechnungswesens: 'rechnungswesen.md'
