@@ -13,7 +13,9 @@ In diesem Kapitel funden Sie folgende Inhalte:
 
 ## Anforderungen analysieren
 
-Sie lernen, wie sie die Bedürfnisse und Anforderungen von Kunden systematisch erfassen und analysieren. Sie entwickeln Fähigkeiten, um technische Lösungen passgenau zu planen und erfolgreich zu implementieren. 
+!!! info ""
+
+   Sie lernen, wie sie die Bedürfnisse und Anforderungen von Kunden systematisch erfassen und analysieren. Sie entwickeln Fähigkeiten, um technische Lösungen passgenau zu planen und erfolgreich zu implementieren. 
 
 ### Exkurs Anforderungsanalyse
 
@@ -28,6 +30,10 @@ Erstellen Sie eine Checkliste für die Ermittlung von Anforderungen an eine neue
 Erstellen Sie eine Checkliste für die Ermittlung von Anforderungen an eine neue Software. Gehen Sie dabei von einem gesamten Arbeitsplatz aus, der für neue Kolleg:innen bestellt werden soll. Welche Fragen sind hier zu berücksichtigen? Wie kann die Checkliste vorstrukturiert werden?
 
 ## Präferenzmatrix und Nutzwertanalyse durchführen
+
+!!! info ""
+
+   Die Präferenzmatrix und Nutzwertanalyse sind Werkzeuge, die eingesetzt werden, um Entscheidungen systematisch und objektiv zu treffen. Mit der Präferenzmatrix werden verschiedene Optionen anhand festgelegter Kriterien bewertet, während die Nutzwertanalyse diese Bewertungen quantifiziert und eine klare Entscheidungshilfe bietet.
 
 ### Exkurs - Relative und absolute Adressierung in MS Excel
 
@@ -74,6 +80,10 @@ Jede Hardware-Option wird auf einer Skala von 1 bis 5 für jede Anforderung bewe
 | Preis | 3 | 2 | 5 |
 
 ## Netzplantechnik und Gantt-Diagramme erstellen
+
+!!! info ""
+
+   Sie lernen die Netzplantechnik und das Gantt-Diagramm als zentrale Werkzeuge des Projektmanagements kennen. Die Netzplantechnik ermöglicht die grafische Darstellung und Analyse von Abläufen und Abhängigkeiten in Projekten, während das Gantt-Diagramm zeitliche Abläufe und Meilensteine visualisiert.
 
 ### Exkurs - Netzplantechnik und Gantt-Diagramme
 
